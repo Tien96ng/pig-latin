@@ -48,13 +48,8 @@ $(document).ready(function() {
     $("#original").text(input);
     $("#pig").text(pigLatinVowel);
   })
-    
-  
 
-  
-  
-
-  });
+});
 
     
 
