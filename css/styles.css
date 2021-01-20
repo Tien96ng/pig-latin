@@ -1,0 +1,16 @@
+span#original {
+  color: blue;
+}
+
+span#pig {
+  color:red;
+}
+
+#left {
+  float: left;
+}
+
+#right {
+  float: right;
+  border-left: 2px solid black;
+}
