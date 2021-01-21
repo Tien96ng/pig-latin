@@ -6,11 +6,10 @@ span#pig {
   color:red;
 }
 
-#left {
-  float: left;
+body {
+  text-align: center;
 }
 
-#right {
-  float: right;
-  border-left: 2px solid black;
+form {
+  padding: 50px;
 }
